@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.asm": "i8080-macroasm",
+        "iostream": "cpp"
+    }
+}
